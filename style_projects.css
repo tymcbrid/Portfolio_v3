@@ -223,28 +223,28 @@ h5{
     right: 150px;
 }
 #project1Tile{
-    background-image:url(./project1.png);
+    background-image:url(https://media.giphy.com/media/kgrEXP21525paGmONQ/giphy.gif);
     background-size: cover;
     border-radius: 0%;
 }
 #project2Tile{
-    background-image:url(./project2.png);
+    background-image:url(https://media.giphy.com/media/ZBcsymjPmcFT8xiUtL/giphy.gif);
     background-size: cover;
 }
 #project3Tile{
-    background-image:url(./project3.png);
+    background-image:url(https://media.giphy.com/media/U3JVsiyOro0d6rOJ9I/giphy.gif);
     background-size: cover;
 }
 #project4Tile{
-    background-image:url(./project4.png);
+    background-image:url(https://media.giphy.com/media/W36aSvshhgEKuI1QKZ/giphy.gif);
     background-size: cover;
 }
 #project5Tile{
-    background-image:url(./project5.png);
+    background-image:url(https://media.giphy.com/media/SSWemAT76rldTJGtnf/giphy.gif);
     background-size: cover;
 }
 #project6Tile{
-    background-image:url(./movie-picker.png);
+    background-image:url(./project2.png);
     background-size: cover;
 }
 .swiper-wrapper{
